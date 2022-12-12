@@ -15,7 +15,7 @@ Documentation: https://help.syncfusion.com/flutter/cartesian-charts/series-custo
 * [For more development tools](https://flutter.dev/docs/development/tools/devtools/overview)
 
 ## How to run this application
-To run this application, you need to first clone or download the ‘datalabel customization flutter chart’ repository and open it in your preferred IDE. Then, build and run your project to view the output.
+To run this application, you need to first clone or download the ‘gradient rotation flutter chart’ repository and open it in your preferred IDE. Then, build and run your project to view the output.
 
 ## Further help
 For more help, check the [Syncfusion Flutter documentation](https://help.syncfusion.com/flutter/introduction/overview), or
