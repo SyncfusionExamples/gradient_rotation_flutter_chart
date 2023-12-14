@@ -40,7 +40,7 @@ class _MyHomePageState extends State<_MyHomePage> {
                 backgroundColor: Colors.white,
                 primaryXAxis: NumericAxis(),
                 primaryYAxis: NumericAxis(minimum: 20),
-                series: <ChartSeries<_SalesData, num>>[
+                series: <SplineRangeAreaSeries<_SalesData, num>>[
                   SplineRangeAreaSeries<_SalesData, num>(
                       dataSource: <_SalesData>[
                         _SalesData(2010, 35, 65),
